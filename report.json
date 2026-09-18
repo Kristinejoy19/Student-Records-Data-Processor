@@ -1,0 +1,27 @@
+{
+  "totalStudents": 10,
+  "overallAverageGrade": 87.71,
+  "topStudent": {
+    "id": 3,
+    "name": "Ana Reyes",
+    "averageGrade": 94.8
+  },
+  "courseBreakdown": [
+    {
+      "course": "BS Physics",
+      "averageGrade": 91
+    },
+    {
+      "course": "BS Mathematics",
+      "averageGrade": 87.3
+    },
+    {
+      "course": "BS Information Technology",
+      "averageGrade": 80.7
+    },
+    {
+      "course": "BS Computer Science",
+      "averageGrade": 67.85
+    }
+  ]
+}

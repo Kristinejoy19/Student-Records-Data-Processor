@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Maria Santos", "year": 3, "course": "BS Computer Science", "grades": [92, 88, 95, 90, 93], "enrolled": true },
+  { "id": 2, "name": "Juan Dela Cruz", "year": 2, "course": "BS Mathematics", "grades": [85, 90, 78, 88, 82], "enrolled": true },
+  { "id": 3, "name": "Ana Reyes", "year": 4, "course": "BS Computer Science", "grades": [96, 94, 91, 98, 95], "enrolled": true },
+  { "id": 4, "name": "Pedro Lim", "year": 1, "course": "BS Physics", "grades": [88, 84, 90, 86, 89], "enrolled": false },
+  { "id": 5, "name": "Liza Morales", "year": 3, "course": "BS Information Technology", "grades": [79, 83, 81, 85, 80], "enrolled": true },
+  { "id": 6, "name": "Carlos Garcia", "year": 2, "course": "BS Mathematics", "grades": [91, 87, 93, 89, 90], "enrolled": true },
+  { "id": 7, "name": "Bea Torres", "year": 1, "course": "BS Computer Science", "grades": [84, 86, 82, 88, 85], "enrolled": true },
+  { "id": 8, "name": "Miguel Ramos", "year": 4, "course": "BS Physics", "grades": [95, 93, 97, 92, 96], "enrolled": true },
+  { "id": 9, "name": "Sofia Aquino", "year": 2, "course": "BS Information Technology", "grades": [77, 81, 79, 84, 78], "enrolled": true },
+  { "id": 10, "name": "Rafael Mendoza", "year": 3, "course": "BS Computer Science", "grades": [], "enrolled": false }
+]
